@@ -28,6 +28,9 @@ const Home = () => {
             <li>Matlab</li>
             <li>C++</li>
             <li>NodeJS</li>
+            <li>Abeton Live</li>
+            <li>Audacity</li>
+            <li>Arturia VSTs</li>
           </ul>
         </div>
       </div>
